@@ -282,6 +282,13 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 <!--ts-->
 
+- [Hi, I'm Juthika 👋](#hi-im-juthika-)
+    - [🔭 Currently working on](#-currently-working-on)
+    - [🚀 Featured projects](#-featured-projects)
+    - [🛠️ Tech stack](#️-tech-stack)
+    - [💡 Interests](#-interests)
+    - [🎓 Background](#-background)
+    - [📫 Connect](#-connect)
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
