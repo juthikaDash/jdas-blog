@@ -6,7 +6,7 @@ subtitle: Senior ML & Systems Engineer at <a href='https://www.klover.ai/'>Klove
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true
   more_info: >
     <p>Multi-agent LLM systems</p>

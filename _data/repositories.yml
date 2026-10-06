@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - juthikaDash
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - juthikaDash/jdas-blog
+  - juthikaDash/Novacart-RAG
+  - juthikaDash/TwitterAnalysisOnUSAElection
+  - juthikaDash/kraftwerk
+  - juthikaDash/Practical-Application-Assignment-11.1
+  - juthikaDash/ComparingClassifiers
+  - juthikaDash/CustomerAcceptCoupon
