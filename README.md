@@ -1,3 +1,37 @@
+# Hi, I'm Juthika 👋
+
+Senior ML & Systems Engineer at **Klover.ai**, building multi-agent LLM systems and AI-driven workflows. ~15 years across telecom, Intel power & performance engineering, and AI/ML applications.
+
+### 🔭 Currently working on
+- **Multi-agent LLM systems** for real-world workflows
+- **Energy-aware inference scheduling** for multi-agent LLM pipelines (research)
+
+### 🚀 Featured projects
+- **[TradeDeck](https://github.com/juthikaDash/TradeDeck)** – Full-stack AI-powered stock trading dashboard
+- **[Ctrl-Alt-Feel](https://github.com/juthikaDash/Ctrl-Alt-Feel)** – Multi-agent emotion engine for executive coaches
+- **[jdas-blog](https://juthikadash.github.io/jdas-blog)** – My research & technical writing
+
+### 🛠️ Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### 💡 Interests
+Multi-agent systems · AI inference · System design · Full-stack AI apps
+
+### 🎓 Background
+MS in Computer Science, San Jose State · Professional Certificate in ML/AI, UC Berkeley
+Previously built AI inference and telemetry pipelines at Intel
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Blog](https://juthikadash.github.io/jdas-blog)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=juthikaDash&show_icons=true&hide_border=true)
+
+
+
 # al-folio
 
 <div align="center">
