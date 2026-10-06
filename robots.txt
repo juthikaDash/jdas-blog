@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://juthikadash.github.io/jdash/sitemap.xml
+Sitemap: https://juthikadash.github.io/jdas-blog/sitemap.xml
